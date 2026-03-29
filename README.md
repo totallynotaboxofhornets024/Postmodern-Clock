@@ -8,7 +8,7 @@
    <h2 align="left"> Forked from Prayag2's KDE_ModernClock, to be compatible with Noctalia shell (4.7.1) under the Niri compositor...</h2>
   </summary>
   <summary>
-   <h2 align= "right"><i> (...Not just KDE Plasma 5/6). </i></h2>
+   <h2 align= "right"> ...Not just KDE Plasma 5/6. </h2>
   </summary>
  </ul>
 </div>
