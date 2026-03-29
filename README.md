@@ -1,5 +1,5 @@
-<div id="toc">
- <ul align="center" style="list-style: none;"> 
+<div  align="center" id="toc">
+ <ul style="list-style: none;"> 
   <summary>
     <h1>Postmodern Clock!</h1> 
   </summary>
