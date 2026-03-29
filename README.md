@@ -5,7 +5,7 @@
  <div align=left id="user-content-toc">
   <h2> Forked from Prayag2's KDE_ModernClock, to be compatible with Noctalia shell (4.7.1) under the Niri compositor...</h2>
  </div>
- <div align=right id="user-content-toc>
+ <div align=right id="user-content-toc">
   <h2> <i> (...Not just KDE Plasma 5/6). </i></h2>
  </div>
 
