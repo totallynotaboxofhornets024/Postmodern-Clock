@@ -5,7 +5,7 @@
   </summary>
   <img src="https://github.com/totallynotaboxofhornets024/Postmodern-Clock/blob/main/assets/min-square_97-snk-X32c8tE-unsplash.jpg" width=444>  
   <summary>
-   <h2 align="left"> Forked from Prayag2's KDE_ModernClock,to be more generally compatible (4.7.1) across the KDE space...</h2>
+   <h2 align="left"> Forked from Prayag2's KDE_ModernClock, to be more generally compatible (4.7.1) across the KDE space...</h2>
   </summary>
  </ul>
 </div>
