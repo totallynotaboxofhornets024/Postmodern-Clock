@@ -1,11 +1,14 @@
-<div align=center>
- # Postmodern Clock!
+<div align=center id="user-content-toc">
+ <h1>Postmodern Clock!</h1> 
+  <img src="https://github.com/totallynotaboxofhornets024/Postmodern-Clock/blob/main/assets/min-square_97-snk-X32c8tE-unsplash.jpg" width=444>  
 </div>
-<div align=center>
-  <img src="https://github.com/totallynotaboxofhornets024/Postmodern-Clock/blob/main/assets/min-square_97-snk-X32c8tE-unsplash.jpg" width=444>
-</div>    
-  <p align="left"> <i> Forked from Prayag2's KDE_ModernClock, to be compatible with Noctalia shell (4.7.1) under the Niri compositor... </i></p> 
-  <p align="right"><b> (...Not just KDE Plasma 5/6). </b></p>
+ <div align=left id="user-content-toc>
+  <h2> Forked from Prayag2's KDE_ModernClock, to be compatible with Noctalia shell (4.7.1) under the Niri compositor...</h2>
+ </div>
+ <div align=right id="user-content-toc>
+  <h2> <i> (...Not just KDE Plasma 5/6). </i></h2>
+ </div>
+
 
 
 
