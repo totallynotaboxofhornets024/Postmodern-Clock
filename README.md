@@ -1,4 +1,4 @@
-<p>
+<p align "center">
   <h1 align="center"> Postmodern Clock! </h1>
   <img src="https://github.com/totallynotaboxofhornets024/Postmodern-Clock/blob/main/assets/min-square_97-snk-X32c8tE-unsplash.jpg" width=100/>
   <h2 align="left"> Forked from Prayag2's KDE_ModernClock, to be compatible with Niri and Noctalia (4.7.1) and Niri... </h2> 
