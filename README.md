@@ -2,7 +2,7 @@
  <h1>Postmodern Clock!</h1> 
   <img src="https://github.com/totallynotaboxofhornets024/Postmodern-Clock/blob/main/assets/min-square_97-snk-X32c8tE-unsplash.jpg" width=444>  
 </div>
- <div align=left id="user-content-toc>
+ <div align=left id="user-content-toc">
   <h2> Forked from Prayag2's KDE_ModernClock, to be compatible with Noctalia shell (4.7.1) under the Niri compositor...</h2>
  </div>
  <div align=right id="user-content-toc>
