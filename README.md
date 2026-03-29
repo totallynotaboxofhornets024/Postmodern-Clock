@@ -5,14 +5,14 @@
   </summary>
   <img src="https://github.com/totallynotaboxofhornets024/Postmodern-Clock/blob/main/assets/min-square_97-snk-X32c8tE-unsplash.jpg" width=444>  
   <summary>
-   <h2 align="left"> Forked from Prayag2's KDE_ModernClock, to be compatible with Noctalia shell (4.7.1) under the Niri compositor...</h2>
+   <h2 align="left"> Forked from Prayag2's KDE_ModernClock,to be more generally compatible (4.7.1) across the KDE space...</h2>
   </summary>
  </ul>
 </div>
 <div align="right" id="toc">
  <ul style="list-style: none;"> 
   <summary>
-   <h2> ...Not just KDE Plasma 5/6. </h2>
+   <h2> ...Not just in KDE Plasma 5/6. </h2>
   </summary>
  </ul>
 </div>
