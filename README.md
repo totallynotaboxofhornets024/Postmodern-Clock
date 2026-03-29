@@ -1,6 +1,8 @@
 <p align "center">
   <h1 align="center"> Postmodern Clock! </h1>
-  <img align="center" src="https://github.com/totallynotaboxofhornets024/Postmodern-Clock/blob/main/assets/min-square_97-snk-X32c8tE-unsplash.jpg" width=100/>
+  <div align=center>
+  <img src="https://github.com/totallynotaboxofhornets024/Postmodern-Clock/blob/main/assets/min-square_97-snk-X32c8tE-unsplash.jpg">
+  </div>    
   <p align="left"> <i> Forked from Prayag2's KDE_ModernClock, to be compatible with Niri and Noctalia (4.7.1) and Niri... </i></p> 
   <p align="right"><b> (...Not just KDE Plasma 5/6). </b></h2>
 </p>
